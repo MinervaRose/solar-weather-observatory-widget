@@ -73,7 +73,7 @@ If the live signal is unavailable, fallback values are displayed and clearly lab
 Use Node.js LTS v22.x.
 
 ```powershell
-cd "C:\Users\Sabrina\Desktop\solar-weather-observatory-widget-v6\solar-weather-observatory-widget-v6"
+cd "C:\Users\PATH\solar-weather-observatory-widget-v6\solar-weather-observatory-widget"
 npm.cmd install
 npm.cmd start
 ```

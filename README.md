@@ -47,7 +47,7 @@ Educational popups explaining solar weather concepts including Kp Index, Solar W
 - Geomagnetic storm level
 - Latest alert panel
 - Quiet / watchful / stormy / fallback status modes
-- Chibi astronaut reaction states
+- Astronaut reaction states
 - Refresh, minimize, close, and pin/unpin controls
 - Compact / expanded mode
 - Educational popups for Kp, solar wind, and geomagnetic storms

@@ -1,0 +1,21 @@
+{
+  "name": "solar-weather-observatory-widget",
+  "version": "0.7.0",
+  "description": "A cute Electron desktop widget for live solar weather signals with compact and expanded modes.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "electron",
+    "space-weather",
+    "solar-weather",
+    "NOAA",
+    "desktop-widget"
+  ],
+  "author": "Sabrina Palis",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^25.0.0"
+  }
+}
